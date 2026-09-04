@@ -1,0 +1,317 @@
+[
+  {
+    "id": 1,
+    "brand": "ZENJI",
+    "product": {
+      "name": "BLUE FLAME TEE",
+      "slug": "blue-flame-tee",
+      "url": "https://zenji.shop/drop/blue-flame-tee",
+      "category": "Anime Streetwear",
+      "collection": "THE_ORIGIN_DROP",
+      "colorway": "CYBER BLUE",
+      "sku": "ZNJ-DEM-001",
+      "availability": "IN STOCK",
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "pricing": {
+        "currency": "AUD",
+        "original_price": 39.99,
+        "sale_price": 33.99,
+        "discount_percent": 15
+      },
+      "details": {
+        "material": "240gsm heavyweight cotton",
+        "fit": "Oversized",
+        "finish": "Garment washed",
+        "graphic": "Blue Flame Anime screenprint"
+      },
+      "description": "Ignite the spirit. Blue aura heavy oversized fit tee."
+    },
+    "shipping": {
+      "free_shipping_australia_wide_over": 100,
+      "currency": "AUD"
+    },
+    "images": {
+      "count": 7,
+      "alt_text": "ZENJI BLUE FLAME TEE anime streetwear",
+      "list": [
+        "/image/image.jpg",
+        "/image/image (1).jpg",
+        "/image/image (2).jpg",
+        "/image/image (3).jpg",
+        "/image/image (4).jpg",
+        "/image/image (5).jpg",
+        "/image/image (6).jpg"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "brand": "ZENJI",
+    "product": {
+      "name": "BUSHIDO TEE",
+      "slug": "bushido-tee",
+      "url": "https://zenji.shop/drop/bushido-tee",
+      "category": "Anime Streetwear",
+      "collection": "THE_ORIGIN_DROP",
+      "colorway": "SAND BEIGE",
+      "sku": "ZNJ-DEM-002",
+      "availability": "IN STOCK",
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "pricing": {
+        "currency": "AUD",
+        "original_price": 39.99,
+        "sale_price": 39.99,
+        "discount_percent": 0
+      },
+      "details": {
+        "material": "240gsm heavyweight cotton",
+        "fit": "Oversized",
+        "finish": "Garment washed",
+        "graphic": "Bushido Warrior calligraphy back print"
+      },
+      "description": "The way of the warrior. Premium vintage sand wash."
+    },
+    "shipping": {
+      "free_shipping_australia_wide_over": 100,
+      "currency": "AUD"
+    },
+    "images": {
+      "count": 7,
+      "alt_text": "ZENJI BUSHIDO TEE anime streetwear",
+      "list": [
+        "/image/image (1).jpg",
+        "/image/image.jpg",
+        "/image/image (2).jpg",
+        "/image/image (3).jpg",
+        "/image/image (4).jpg",
+        "/image/image (5).jpg",
+        "/image/image (6).jpg"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "brand": "ZENJI",
+    "product": {
+      "name": "DEMON BLOOD TEE",
+      "slug": "demon-blood-tee",
+      "url": "https://zenji.shop/drop/demon-blood-tee",
+      "category": "Anime Streetwear",
+      "collection": "THE_ORIGIN_DROP",
+      "colorway": "CRIMSON PINK",
+      "sku": "ZNJ-DEM-003",
+      "availability": "IN STOCK",
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "pricing": {
+        "currency": "AUD",
+        "original_price": 39.99,
+        "sale_price": 33.99,
+        "discount_percent": 15
+      },
+      "details": {
+        "material": "240gsm heavyweight cotton",
+        "fit": "Oversized",
+        "finish": "Garment washed",
+        "graphic": "Anime graphic screenprint"
+      },
+      "description": "The mark of the cursed. Worn by those who survived."
+    },
+    "shipping": {
+      "free_shipping_australia_wide_over": 100,
+      "currency": "AUD"
+    },
+    "images": {
+      "count": 7,
+      "alt_text": "ZENJI DEMON BLOOD TEE anime streetwear",
+      "list": [
+        "/image/image (2).jpg",
+        "/image/image.jpg",
+        "/image/image (1).jpg",
+        "/image/image (3).jpg",
+        "/image/image (4).jpg",
+        "/image/image (5).jpg",
+        "/image/image (6).jpg"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "brand": "ZENJI",
+    "product": {
+      "name": "DOMAIN EXPANSION TEE",
+      "slug": "domain-expansion-tee",
+      "url": "https://zenji.shop/drop/domain-expansion-tee",
+      "category": "Anime Streetwear",
+      "collection": "THE_ORIGIN_DROP",
+      "colorway": "ROYAL PURPLE",
+      "sku": "ZNJ-DEM-004",
+      "availability": "IN STOCK",
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "pricing": {
+        "currency": "AUD",
+        "original_price": 39.99,
+        "sale_price": 39.99,
+        "discount_percent": 0
+      },
+      "details": {
+        "material": "240gsm heavyweight cotton",
+        "fit": "Oversized",
+        "finish": "Garment washed",
+        "graphic": "Domain Expansion Sorcerer graphic"
+      },
+      "description": "Unleash infinite void. Vibrant purple oversized cotton tee."
+    },
+    "shipping": {
+      "free_shipping_australia_wide_over": 100,
+      "currency": "AUD"
+    },
+    "images": {
+      "count": 7,
+      "alt_text": "ZENJI DOMAIN EXPANSION TEE anime streetwear",
+      "list": [
+        "/image/image (3).jpg",
+        "/image/image.jpg",
+        "/image/image (1).jpg",
+        "/image/image (2).jpg",
+        "/image/image (4).jpg",
+        "/image/image (5).jpg",
+        "/image/image (6).jpg"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "brand": "ZENJI",
+    "product": {
+      "name": "FREE SOUL TEE",
+      "slug": "free-soul-tee",
+      "url": "https://zenji.shop/drop/free-soul-tee",
+      "category": "Anime Streetwear",
+      "collection": "THE_ORIGIN_DROP",
+      "colorway": "OATMEAL WHITE",
+      "sku": "ZNJ-DEM-005",
+      "availability": "IN STOCK",
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "pricing": {
+        "currency": "AUD",
+        "original_price": 39.99,
+        "sale_price": 39.99,
+        "discount_percent": 0
+      },
+      "details": {
+        "material": "240gsm heavyweight cotton",
+        "fit": "Oversized",
+        "finish": "Garment washed",
+        "graphic": "Free Soul minimalist anime line art"
+      },
+      "description": "Unbound by darkness. Clean minimalist streetwear tee."
+    },
+    "shipping": {
+      "free_shipping_australia_wide_over": 100,
+      "currency": "AUD"
+    },
+    "images": {
+      "count": 7,
+      "alt_text": "ZENJI FREE SOUL TEE anime streetwear",
+      "list": [
+        "/image/image (4).jpg",
+        "/image/image.jpg",
+        "/image/image (1).jpg",
+        "/image/image (2).jpg",
+        "/image/image (3).jpg",
+        "/image/image (5).jpg",
+        "/image/image (6).jpg"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "brand": "ZENJI",
+    "product": {
+      "name": "SOUL REAPER TEE",
+      "slug": "soul-reaper-tee",
+      "url": "https://zenji.shop/drop/soul-reaper-tee",
+      "category": "Anime Streetwear",
+      "collection": "THE_ORIGIN_DROP",
+      "colorway": "PHANTOM BLACK",
+      "sku": "ZNJ-DEM-006",
+      "availability": "IN STOCK",
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "pricing": {
+        "currency": "AUD",
+        "original_price": 44.99,
+        "sale_price": 37.99,
+        "discount_percent": 15
+      },
+      "details": {
+        "material": "240gsm heavyweight cotton",
+        "fit": "Oversized",
+        "finish": "Garment washed",
+        "graphic": "Soul Reaper back print"
+      },
+      "description": "Harvested from the shadow realm. Luxury streetwear tee."
+    },
+    "shipping": {
+      "free_shipping_australia_wide_over": 100,
+      "currency": "AUD"
+    },
+    "images": {
+      "count": 7,
+      "alt_text": "ZENJI SOUL REAPER TEE anime streetwear",
+      "list": [
+        "/image/image (5).jpg",
+        "/image/image.jpg",
+        "/image/image (1).jpg",
+        "/image/image (2).jpg",
+        "/image/image (3).jpg",
+        "/image/image (4).jpg",
+        "/image/image (6).jpg"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "brand": "ZENJI",
+    "product": {
+      "name": "CURSED MARK TEE",
+      "slug": "cursed-mark-tee",
+      "url": "https://zenji.shop/drop/cursed-mark-tee",
+      "category": "Anime Streetwear",
+      "collection": "THE_ORIGIN_DROP",
+      "colorway": "BLOOD RED",
+      "sku": "ZNJ-DEM-007",
+      "availability": "IN STOCK",
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "pricing": {
+        "currency": "AUD",
+        "original_price": 42.99,
+        "sale_price": 35.99,
+        "discount_percent": 16
+      },
+      "details": {
+        "material": "240gsm heavyweight cotton",
+        "fit": "Oversized",
+        "finish": "Acid wash finish",
+        "graphic": "Cursed typography print"
+      },
+      "description": "Engraved with ancient power. Relentless oversized tee."
+    },
+    "shipping": {
+      "free_shipping_australia_wide_over": 100,
+      "currency": "AUD"
+    },
+    "images": {
+      "count": 7,
+      "alt_text": "ZENJI CURSED MARK TEE anime streetwear",
+      "list": [
+        "/image/image (6).jpg",
+        "/image/image.jpg",
+        "/image/image (1).jpg",
+        "/image/image (2).jpg",
+        "/image/image (3).jpg",
+        "/image/image (4).jpg",
+        "/image/image (5).jpg"
+      ]
+    }
+  }
+]
