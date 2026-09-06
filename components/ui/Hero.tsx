@@ -2,9 +2,9 @@
 
 import React from 'react';
 import Image from 'next/image';
-import { motion } from 'framer-motion';
+import { motion, type Variants } from 'framer-motion';
 
-const containerVariants = {
+const containerVariants: Variants = {
   hidden: { opacity: 0 },
   visible: {
     opacity: 1,
@@ -15,7 +15,7 @@ const containerVariants = {
   },
 };
 
-const itemVariants: any = {
+const itemVariants: Variants = {
   hidden: { opacity: 0, y: 30 },
   visible: {
     opacity: 1,
@@ -27,7 +27,7 @@ const itemVariants: any = {
   },
 };
 
-const logoVariants: any = {
+const logoVariants: Variants = {
   hidden: { opacity: 0, scale: 0.85, y: -20 },
   visible: {
     opacity: 1,
@@ -57,7 +57,7 @@ const Hero = () => {
         Your browser does not support the video tag.
       </video>
 
-      {/* Dark Overlay for Text Contrast */}
+      {/* Dark Overlay */}
       <div className="absolute inset-0 bg-black/40 z-10 pointer-events-none" />
 
       {/* Hero Content */}

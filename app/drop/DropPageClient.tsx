@@ -3,7 +3,8 @@
 import React, { useState, useEffect, useRef } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import ProductCard, { ProductItem } from '@/components/ui/ProductCard';
+import type { ProductItem } from '@/components/ui/ProductCard';
+import ProductCard from '@/components/ui/ProductCard';
 
 interface DropPageClientProps {
   previewProducts: ProductItem[];
@@ -255,16 +256,7 @@ export default function DropPageClient({ previewProducts }: DropPageClientProps)
         </div>
       </section>
 
-      {/* ── Marquee animation style ── */}
-      <style jsx global>{`
-        @keyframes marquee {
-          from { transform: translateX(0); }
-          to   { transform: translateX(-50%); }
-        }
-        .animate-marquee {
-          animation: marquee 28s linear infinite;
-        }
-      `}</style>
+      {/* .animate-marquee keyframe is defined in globals.css */}
     </>
   );
 }
